@@ -5,3 +5,4 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
+merge conflict
