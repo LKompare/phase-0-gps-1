@@ -6,3 +6,4 @@ var s = "JavaScript syntax highlighting";
 alert(s);
 ```
 merge conflict
+will this work?
